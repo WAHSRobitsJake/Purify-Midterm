@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 1a1b92027022c034ebeae8c7c38eae6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6184303429806391480
+    second: 2DP_DungeonTile[PINK]_0
+  - first:
+      213: -6051717971781625831
+    second: 2DP_DungeonTile[PINK]_1
+  - first:
+      213: -4691080131546992710
+    second: 2DP_DungeonTile[PINK]_2
+  - first:
+      213: 8197807886906433804
+    second: 2DP_DungeonTile[PINK]_3
+  - first:
+      213: 2727941828532807246
+    second: 2DP_DungeonTile[PINK]_4
+  - first:
+      213: 868313104726675843
+    second: 2DP_DungeonTile[PINK]_5
+  - first:
+      213: 5842781214178274651
+    second: 2DP_DungeonTile[PINK]_6
+  - first:
+      213: 1528488355676596224
+    second: 2DP_DungeonTile[PINK]_7
+  - first:
+      213: -2075201059244839236
+    second: 2DP_DungeonTile[PINK]_8
+  - first:
+      213: -8150751325267931252
+    second: 2DP_DungeonTile[PINK]_9
+  - first:
+      213: 2585067214437769664
+    second: 2DP_DungeonTile[PINK]_10
+  - first:
+      213: 6663357203554398686
+    second: 2DP_DungeonTile[PINK]_11
+  - first:
+      213: -2539144299070878048
+    second: 2DP_DungeonTile[PINK]_12
+  - first:
+      213: 7348074595126659337
+    second: 2DP_DungeonTile[PINK]_13
+  - first:
+      213: -265767443445976531
+    second: 2DP_DungeonTile[PINK]_14
+  - first:
+      213: -3978942812506326137
+    second: 2DP_DungeonTile[PINK]_15
+  - first:
+      213: -8442861987719462047
+    second: 2DP_DungeonTile[PINK]_16
+  - first:
+      213: 2540755088637962041
+    second: 2DP_DungeonTile[PINK]_17
+  - first:
+      213: -721352466969848772
+    second: 2DP_DungeonTile[PINK]_18
+  - first:
+      213: 745391093571533856
+    second: 2DP_DungeonTile[PINK]_19
+  - first:
+      213: 4256296642995401007
+    second: 2DP_DungeonTile[PINK]_20
+  - first:
+      213: -5591338892444283967
+    second: 2DP_DungeonTile[PINK]_21
+  - first:
+      213: -4888813480727326404
+    second: 2DP_DungeonTile[PINK]_22
+  - first:
+      213: -3162076072800779946
+    second: 2DP_DungeonTile[PINK]_23
+  - first:
+      213: 7034324606929501417
+    second: 2DP_DungeonTile[PINK]_24
+  - first:
+      213: -2002120737518318817
+    second: 2DP_DungeonTile[PINK]_25
+  - first:
+      213: 7014743800336256747
+    second: 2DP_DungeonTile[PINK]_26
+  - first:
+      213: 5171684299838378568
+    second: 2DP_DungeonTile[PINK]_27
+  - first:
+      213: 4829739826381470160
+    second: 2DP_DungeonTile[PINK]_28
+  - first:
+      213: -3103740623998245151
+    second: 2DP_DungeonTile[PINK]_29
+  - first:
+      213: -1137105837386119360
+    second: 2DP_DungeonTile[PINK]_30
+  - first:
+      213: 3836900960821206615
+    second: 2DP_DungeonTile[PINK]_31
+  - first:
+      213: 2028336526366653725
+    second: 2DP_DungeonTile[PINK]_32
+  - first:
+      213: 8193130732313213187
+    second: 2DP_DungeonTile[PINK]_33
+  - first:
+      213: 568816246223432256
+    second: 2DP_DungeonTile[PINK]_34
+  - first:
+      213: -2331790050445043562
+    second: 2DP_DungeonTile[PINK]_35
+  - first:
+      213: -7119431138394282526
+    second: 2DP_DungeonTile[PINK]_36
+  - first:
+      213: 5254431259250916346
+    second: 2DP_DungeonTile[PINK]_37
+  - first:
+      213: 1142484236122131167
+    second: 2DP_DungeonTile[PINK]_38
+  - first:
+      213: 4688261383562624806
+    second: 2DP_DungeonTile[PINK]_39
+  - first:
+      213: -9212118008421404063
+    second: 2DP_DungeonTile[PINK]_40
+  - first:
+      213: -8329673408450749719
+    second: 2DP_DungeonTile[PINK]_41
+  - first:
+      213: 6892166710927207049
+    second: 2DP_DungeonTile[PINK]_42
+  - first:
+      213: 5572320710635801932
+    second: 2DP_DungeonTile[PINK]_43
+  - first:
+      213: -1985906061265392743
+    second: 2DP_DungeonTile[PINK]_44
+  - first:
+      213: 8261775229513176828
+    second: 2DP_DungeonTile[PINK]_45
+  - first:
+      213: -2562979223660953211
+    second: 2DP_DungeonTile[PINK]_46
+  - first:
+      213: -6026970379578888190
+    second: 2DP_DungeonTile[PINK]_47
+  - first:
+      213: 6260528192318986500
+    second: 2DP_DungeonTile[PINK]_48
+  - first:
+      213: -8186493539683247456
+    second: 2DP_DungeonTile[PINK]_49
+  - first:
+      213: -6711419783424539427
+    second: 2DP_DungeonTile[PINK]_50
+  - first:
+      213: 8994766785920739379
+    second: 2DP_DungeonTile[PINK]_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 240
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b007dc143f03d550800000000000000
+      internalID: 6184303429806391480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918db1b619af30ca0800000000000000
+      internalID: -6051717971781625831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfaf3a897fe5eeb0800000000000000
+      internalID: -4691080131546992710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0124fbd6d674c170800000000000000
+      internalID: 8197807886906433804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46a0a9c3a89bd520800000000000000
+      internalID: 2727941828532807246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381dc011b2edc0c00800000000000000
+      internalID: 868313104726675843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_6
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5deb63de8ab51150800000000000000
+      internalID: 5842781214178274651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_7
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ac6baf08463510800000000000000
+      internalID: 1528488355676596224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe623aa1a76333e0800000000000000
+      internalID: -2075201059244839236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4cdcaad6b2ee80800000000000000
+      internalID: -8150751325267931252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1621d6fe000e320800000000000000
+      internalID: 2585067214437769664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed176699210097c50800000000000000
+      internalID: 6663357203554398686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0c6486b523ccd0800000000000000
+      internalID: -2539144299070878048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c89999ea99f560800000000000000
+      internalID: 7348074595126659337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f9841bedcf4cf0800000000000000
+      internalID: -265767443445976531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b77f6e794f7c8c0800000000000000
+      internalID: -3978942812506326137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_16
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163455e11cde4da80800000000000000
+      internalID: -8442861987719462047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9372887aa43924320800000000000000
+      internalID: 2540755088637962041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_18
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341960d0cd3df5f0800000000000000
+      internalID: -721352466969848772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c32171049285a00800000000000000
+      internalID: 745391093571533856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21bd68fe37611b30800000000000000
+      internalID: 4256296642995401007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb4809c6e29762b0800000000000000
+      internalID: -5591338892444283967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315b149a02772cb0800000000000000
+      internalID: -4888813480727326404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65182ffa09c0e14d0800000000000000
+      internalID: -3162076072800779946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec72d6e5f0fe9160800000000000000
+      internalID: 7034324606929501417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_25
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b07c20cc90734e0800000000000000
+      internalID: -2002120737518318817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_26
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8a691250695160800000000000000
+      internalID: 7014743800336256747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_27
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d45e487385c740800000000000000
+      internalID: 5171684299838378568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_28
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9360578cea60340800000000000000
+      internalID: 4829739826381470160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_29
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a2a7c85c4de4d0800000000000000
+      internalID: -3103740623998245151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047c39af3403830f0800000000000000
+      internalID: -1137105837386119360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5a1858196f3530800000000000000
+      internalID: 3836900960821206615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db80bf259162c10800000000000000
+      internalID: 2028336526366653725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3097dd1fdf8d3b170800000000000000
+      internalID: 8193130732313213187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6e9abc57d4e700800000000000000
+      internalID: 568816246223432256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698de60bd41d3afd0800000000000000
+      internalID: -2331790050445043562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_36
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e567299913b23d90800000000000000
+      internalID: -7119431138394282526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_37
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbfb50246d7be840800000000000000
+      internalID: 5254431259250916346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_38
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda0b8f0c5beadf00800000000000000
+      internalID: 1142484236122131167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_39
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7e6d83ec001140800000000000000
+      internalID: 4688261383562624806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_40
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162301faa7bf72080800000000000000
+      internalID: -9212118008421404063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9642ea2e076c80800000000000000
+      internalID: -8329673408450749719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa6997b15e5af50800000000000000
+      internalID: 6892166710927207049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dcff3b92cd45d40800000000000000
+      internalID: 5572320710635801932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b2bf485f4a074e0800000000000000
+      internalID: -1985906061265392743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf611496cc8b7a270800000000000000
+      internalID: 8261775229513176828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5818bfea9f77e6cd0800000000000000
+      internalID: -2562979223660953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200366d3f56eb5ca0800000000000000
+      internalID: -6026970379578888190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_48
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409dd71a83dd1e650800000000000000
+      internalID: 6260528192318986500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_49
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa5623ef7bb36e80800000000000000
+      internalID: -8186493539683247456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_50
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4837ef34f3cd2a0800000000000000
+      internalID: -6711419783424539427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DP_DungeonTile[PINK]_51
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a9484cb4d3dc70800000000000000
+      internalID: 8994766785920739379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80dea627b1d3ba042a10fba2e63a7ded
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

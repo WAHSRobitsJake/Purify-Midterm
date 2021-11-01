@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 60282045c5570824db9814d1234e884b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ground: {fileID: 5771357715143621306, guid: 7b0f795113e81934bb9ca156f0313cde,
+      type: 3}
+  - ball: {instanceID: 0}
+  - UIpuzzle: {fileID: 8622396706449498490, guid: 7ddd93cc198f7f840ac491967dd843c3,
+      type: 3}
+  - puzzleOnScene: {instanceID: 0}
+  - ballOnScene: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

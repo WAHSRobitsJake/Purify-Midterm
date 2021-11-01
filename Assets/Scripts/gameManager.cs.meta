@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e86df459765f31441a47bf38f82fc4c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - startBackground: {fileID: 4896272297805454949, guid: e302b1006781bce408ded1a9edd2cf48,
+      type: 3}
+  - endBackground: {fileID: 1447569181834386540, guid: 596e60dad90a52d4c91622184cbed6b6,
+      type: 3}
+  - ePM: {instanceID: 0}
+  - Global: {fileID: 11400000, guid: e015c32c03b4ae146a9d9ab09148f3ea, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

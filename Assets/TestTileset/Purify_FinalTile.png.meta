@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 296c4aff561f2d54391f8425306b16ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1183271028878896461
+    second: Purify_FinalTile_0
+  - first:
+      213: 3624978594733021432
+    second: Purify_FinalTile_1
+  - first:
+      213: 3034510523591440094
+    second: Purify_FinalTile_2
+  - first:
+      213: -7960111530964553705
+    second: Purify_FinalTile_3
+  - first:
+      213: 8611446054808068409
+    second: Purify_FinalTile_4
+  - first:
+      213: -1429225289554864097
+    second: Purify_FinalTile_5
+  - first:
+      213: 5555617826029300259
+    second: Purify_FinalTile_6
+  - first:
+      213: 5723826138970840306
+    second: Purify_FinalTile_7
+  - first:
+      213: -1796583829661621869
+    second: Purify_FinalTile_8
+  - first:
+      213: 8521115229424725510
+    second: Purify_FinalTile_9
+  - first:
+      213: 2427916606309534876
+    second: Purify_FinalTile_10
+  - first:
+      213: 6199741449642993106
+    second: Purify_FinalTile_11
+  - first:
+      213: -7221158129038864011
+    second: Purify_FinalTile_12
+  - first:
+      213: -8492166528501617523
+    second: Purify_FinalTile_13
+  - first:
+      213: 5769421430604015894
+    second: Purify_FinalTile_14
+  - first:
+      213: 7070508074432043326
+    second: Purify_FinalTile_15
+  - first:
+      213: -6686174228133720981
+    second: Purify_FinalTile_16
+  - first:
+      213: 6833226066353488817
+    second: Purify_FinalTile_17
+  - first:
+      213: -6917821308257980986
+    second: Purify_FinalTile_18
+  - first:
+      213: -8533564492969855665
+    second: Purify_FinalTile_19
+  - first:
+      213: -2707344329763865464
+    second: Purify_FinalTile_20
+  - first:
+      213: -7727804801141926047
+    second: Purify_FinalTile_21
+  - first:
+      213: -884944470621990006
+    second: Purify_FinalTile_22
+  - first:
+      213: 7493115765208546957
+    second: Purify_FinalTile_23
+  - first:
+      213: -4417580336378706389
+    second: Purify_FinalTile_24
+  - first:
+      213: -384455486280097151
+    second: Purify_FinalTile_25
+  - first:
+      213: -3944972878496407989
+    second: Purify_FinalTile_26
+  - first:
+      213: 3631894575551788873
+    second: Purify_FinalTile_27
+  - first:
+      213: 9110118808561288461
+    second: Purify_FinalTile_28
+  - first:
+      213: 2787330785321366737
+    second: Purify_FinalTile_29
+  - first:
+      213: -6287083109719543428
+    second: Purify_FinalTile_30
+  - first:
+      213: -8921748842261265269
+    second: Purify_FinalTile_31
+  - first:
+      213: 5235388961017680885
+    second: Purify_FinalTile_32
+  - first:
+      213: -6751938519559421180
+    second: Purify_FinalTile_33
+  - first:
+      213: -8059538952160982732
+    second: Purify_FinalTile_34
+  - first:
+      213: -802699541220592643
+    second: Purify_FinalTile_35
+  - first:
+      213: 5690654313992079021
+    second: Purify_FinalTile_36
+  - first:
+      213: -1574576625365595194
+    second: Purify_FinalTile_37
+  - first:
+      213: -1934211917253810183
+    second: Purify_FinalTile_38
+  - first:
+      213: 643972306370815897
+    second: Purify_FinalTile_39
+  - first:
+      213: 6436032561225552578
+    second: Purify_FinalTile_40
+  - first:
+      213: -9005954269634289025
+    second: Purify_FinalTile_41
+  - first:
+      213: -6197086189724490832
+    second: Purify_FinalTile_42
+  - first:
+      213: 4633212001190533035
+    second: Purify_FinalTile_43
+  - first:
+      213: 3748398929870745376
+    second: Purify_FinalTile_44
+  - first:
+      213: -13234249088909923
+    second: Purify_FinalTile_45
+  - first:
+      213: 6715893188662750777
+    second: Purify_FinalTile_46
+  - first:
+      213: -4759105493491593189
+    second: Purify_FinalTile_47
+  - first:
+      213: -7345112822972991341
+    second: Purify_FinalTile_48
+  - first:
+      213: -2490486428337298016
+    second: Purify_FinalTile_49
+  - first:
+      213: -5423169909865725435
+    second: Purify_FinalTile_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 240
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purify_FinalTile_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d66554bb2db6010800000000000000
+      internalID: 1183271028878896461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d47173d28e4230800000000000000
+      internalID: 3624978594733021432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63ad16e3fbc1a20800000000000000
+      internalID: 3034510523591440094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710fd50bcb0088190800000000000000
+      internalID: -7960111530964553705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931264bbf80028770800000000000000
+      internalID: 8611446054808068409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d318eb2f5a2ce0800000000000000
+      internalID: -1429225289554864097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aed445af4891d40800000000000000
+      internalID: 5555617826029300259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd3791c8d1f6f40800000000000000
+      internalID: 5723826138970840306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_8
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391eecf86804117e0800000000000000
+      internalID: -1796583829661621869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e28048725114670800000000000000
+      internalID: 8521115229424725510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0a5f2a41b1b120800000000000000
+      internalID: 2427916606309534876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d56c353008e90650800000000000000
+      internalID: 6199741449642993106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d6b3e0fa49cb90800000000000000
+      internalID: -7221158129038864011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce2372983c52a80800000000000000
+      internalID: -8492166528501617523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_14
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ada2393a111050800000000000000
+      internalID: 5769421430604015894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_15
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399d0ee1ad7f1260800000000000000
+      internalID: 7070508074432043326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc7b1e6ffe533a0800000000000000
+      internalID: -6686174228133720981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b380f247ee74de50800000000000000
+      internalID: 6833226066353488817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_18
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 395
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda7ad1c26feff90800000000000000
+      internalID: -6917821308257980986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4535a07e40b29980800000000000000
+      internalID: -8533564492969855665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb1cb1da49d6ad0800000000000000
+      internalID: -2707344329763865464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167906e1a7251c490800000000000000
+      internalID: -7727804801141926047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8351ae41bb08b3f0800000000000000
+      internalID: -884944470621990006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e72269615ecf760800000000000000
+      internalID: 7493115765208546957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b268563e61a91b2c0800000000000000
+      internalID: -4417580336378706389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_25
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182235ca5c32aaaf0800000000000000
+      internalID: -384455486280097151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_26
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4edba08114a049c0800000000000000
+      internalID: -3944972878496407989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_27
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947be65bfd4176230800000000000000
+      internalID: 3631894575551788873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_28
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0586e5f9c4ad6e70800000000000000
+      internalID: 9110118808561288461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_29
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 265
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43792d4969ea620800000000000000
+      internalID: 2787330785321366737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fecbd83bcfb8a0800000000000000
+      internalID: -6287083109719543428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c3c982b49f2480800000000000000
+      internalID: -8921748842261265269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d5729586d7a840800000000000000
+      internalID: 5235388961017680885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403426490bb4c42a0800000000000000
+      internalID: -6751938519559421180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_34
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43945073604c62090800000000000000
+      internalID: -8059538952160982732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df37d28250d3cd4f0800000000000000
+      internalID: -802699541220592643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_36
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ca0db2f349fe40800000000000000
+      internalID: 5690654313992079021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_37
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4375d6eaf52ae0800000000000000
+      internalID: -1574576625365595194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_38
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f762c7528c4825e0800000000000000
+      internalID: -1934211917253810183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_39
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997eb669669dfe800800000000000000
+      internalID: 643972306370815897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c252bec381615950800000000000000
+      internalID: 6436032561225552578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72290fae4c640380800000000000000
+      internalID: -9005954269634289025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32efaa1f68ff9a0800000000000000
+      internalID: -6197086189724490832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d90c64c97c4040800000000000000
+      internalID: 4633212001190533035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_44
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f666387fcf40430800000000000000
+      internalID: 3748398929870745376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_45
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbf24458bf0dff0800000000000000
+      internalID: -13234249088909923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_46
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e65b3d545a33d50800000000000000
+      internalID: 6715893188662750777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_47
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10d2dbb4c244fdb0800000000000000
+      internalID: -4759105493491593189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_48
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983787bdcae01a90800000000000000
+      internalID: -7345112822972991341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_49
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a52601e9c3007dd0800000000000000
+      internalID: -2490486428337298016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purify_FinalTile_50
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502cddd33b70db4b0800000000000000
+      internalID: -5423169909865725435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d6d01c3c35c3b6f44a7674e169913e62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
